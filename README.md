@@ -95,7 +95,7 @@ Sou um **Desenvolvedor Full Stack Júnior** focado no ecossistema JavaScript, co
 ## 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/andrecarreira" target="_blank">
+  <a href="www.linkedin.com/in/andre-carreira-ti">
     <img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="mailto:carreiraandre21@gmail.com" target="_blank">
