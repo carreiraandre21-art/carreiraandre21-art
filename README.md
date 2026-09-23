@@ -58,21 +58,21 @@ Sou um **Desenvolvedor Full Stack Júnior** focado no ecossistema JavaScript, co
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Ocultado temporariamente devido a instabilidade do servidor Vercel
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carreiraandre21-art&layout=compact&bg_color=000000&title_color=0077B5&text_color=ffffff&border_color=0077B5&hide_border=true" height="192px" alt="Top Languages" />
 </div>
--->
+
 
 <br/>
 
 ## 📈 Atividade Recente e Contribuições
 
- Ocultado temporariamente devido a instabilidade do servidor Vercel
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carreiraandre21-art&bg_color=000000&color=0077B5&line=0077B5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
-
+-->
 
 <br/>
 <div align="center">
