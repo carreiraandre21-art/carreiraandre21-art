@@ -57,11 +57,12 @@ Sou um **Desenvolvedor Full Stack Júnior** focado no ecossistema JavaScript, co
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carreiraandre21-art&layout=compact&bg_color=000000&title_color=0077B5&text_color=ffffff&border_color=0077B5&hide_border=true" height="192px" alt="Top Languages" />
-</div>
+<br/>
+
+## 📈 Atividade Recente e Contribuições
 
 
+<br/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/carreiraandre21-art/carreiraandre21-art/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
 </div>
