@@ -58,20 +58,22 @@ Sou um **Desenvolvedor Full Stack Júnior** focado no ecossistema JavaScript, co
 
 ## 📊 Estatísticas do GitHub
 
+<!-- Ocultado temporariamente devido a instabilidade do servidor Vercel
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carreiraandre21-art&layout=compact&bg_color=000000&title_color=0077B5&text_color=ffffff&border_color=0077B5&hide_border=true" height="192px" alt="Top Languages" />
 </div>
-<br/>
-<div align="center">
-</div>
+-->
 
 <br/>
 
 ## 📈 Atividade Recente e Contribuições
 
+<!-- Ocultado temporariamente devido a instabilidade do servidor Vercel
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carreiraandre21-art&bg_color=000000&color=0077B5&line=0077B5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
+-->
+
 <br/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/carreiraandre21-art/carreiraandre21-art/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
@@ -82,7 +84,7 @@ Sou um **Desenvolvedor Full Stack Júnior** focado no ecossistema JavaScript, co
 ## 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="www.linkedin.com/in/andre-carreira-ti">
+  <a href="https://linkedin.com/in/andrecarreira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="mailto:carreiraandre21@gmail.com" target="_blank">
