@@ -55,27 +55,14 @@ Sou um **Desenvolvedor Full Stack Júnior** focado no ecossistema JavaScript, co
   </tr>
 </table>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/carreiraandre21-art">
-    <img src="https://github-profile-trophy.vercel.app/?username=carreiraandre21-art&theme=gitdimmed&row=1&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carreiraandre21-art&show_icons=true&bg_color=000000&title_color=0077B5&text_color=ffffff&icon_color=0077B5&border_color=0077B5&hide_border=true" height="192px" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carreiraandre21-art&layout=compact&bg_color=000000&title_color=0077B5&text_color=ffffff&border_color=0077B5&hide_border=true" height="192px" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=carreiraandre21-art&theme=dark&background=000000&ring=0077B5&fire=0077B5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0077B5&sideLabels=0077B5&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
