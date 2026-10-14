@@ -17,7 +17,7 @@
 Sou um **Desenvolvedor Full Stack Júnior** focado no ecossistema JavaScript, com experiência prática em construção de interfaces utilizando **React** e **React Native**. Atualmente, curso o 4º período de **Análise e Desenvolvimento de Sistemas** no Centro Universitário Moura Lacerda e atuo como **Estagiário de TI** na Prefeitura Municipal de Guatapará, onde aplico minhas habilidades de depuração e raciocínio lógico no diagnóstico de problemas de software, hardware e redes.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Previsão de conclusão: 2027).
-- 💼 Experiência com consumo de APIs REST, banco de dados MySQL e colaboração no front-end de produtos SaaS em produção.
+- 💼 Experiência com consumo de APIs REST, banco de dados MySQL, ABAP e colaboração no front-end de produtos SaaS em produção.
 - 🚀 Busco oportunidades para criar aplicações escaláveis e interfaces dinâmicas de alto impacto.
 
 ---
